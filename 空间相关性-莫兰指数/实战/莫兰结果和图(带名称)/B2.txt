@@ -1,0 +1,13 @@
+Output information for B2:
+
+Ordinary Least-squares Estimates 
+Dependent Variable =             W2   
+R-squared      =    0.0267 
+Rbar-squared   =    0.0267 
+sigma^2        =    0.0000 
+Durbin-Watson  =    1.0363 
+Nobs, Nvars    =     31,     1 
+***************************************************************
+Variable      Coefficient      t-statistic    t-probability 
+莫兰指数            -0.031376        -0.977024         0.336370 
+
